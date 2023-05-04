@@ -11,6 +11,9 @@ The goal of this project is to create a fun interactive game using crayon data w
 ## Unique Features
 Our game strives to bring back that sense of nostalgia that you associate with Crayola crayons. With over 150 individual colors and ages ranging from 1 all the way to 120 years old we hope to keep you engaged all the way till the end!
 
+[Crayon Data](https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors)
+
+
 ## How to Play
 To run this game, clone the game repository from this repository [Crayon Higher-Lower Game](https://github.com/olincollege/crayola_higher_lower) to your python environment. Our game utilizes pygame as a key library for display and interaction which requires installation. We also use pandas to store the crayon data which also requires installation if not installed already. After running the installation for pygame and pandas in the terminal, you can run the game by running ```python crayon_full_game.py``` in the terminal.
 
