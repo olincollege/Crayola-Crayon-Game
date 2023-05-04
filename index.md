@@ -29,7 +29,7 @@ Once you start the program you will be greeted by the following screen.
 This screen includes instructions on how to start and play the game.
 ![gameplay_start](https://user-images.githubusercontent.com/113651118/236334877-d947bcdb-9f9f-4deb-9886-002027139568.png)
 
-### Gameplay Screens
+### Gameplay Screen
 When you start playing the game, two crayons will appear with the corresponding name and color, for you to compare. The goal is to choose the crayon which has been in production longer. After you choose the actual age will appear and the score will update.
 ![gameplay_running](https://user-images.githubusercontent.com/113651118/236342612-0dcd1009-a83b-496b-98f8-aac897a13c59.png)
 
