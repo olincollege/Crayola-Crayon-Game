@@ -36,5 +36,11 @@ If you choose the wrong crayon the game will automatically end. The Screen will 
 
 
 ### Video of Gameplay
-[https://user-images.githubusercontent.com/113651118/236332303-0ac2939a-fcbf-4e16-aee2-369f78fa94c2.mp4]
+[Gameplay Video](https://user-images.githubusercontent.com/113651118/236348136-7031897f-a365-466f-98b4-bc1d42c8eceb.mp4)
+
+
+##About The creators
+**Lily Dao** I took SoftDes to expand my breadth of knowledge and gain a better understanding of how the mechanical world connects with the software world. This class has allowed me to explore new areas and challenge myself in a field that I am generally unfamiliar.
+**Chris Bocamazo** As a MechE, I wanted expand my limited scope of programming knowledge to a more frequently used and applicable language like Python.  I feel more equipped to implement code in any project going forward.
+**Owen Johnston** I took SoftDes because I feel as the world becomes more technology dependent, software design is an important skill to have. This class has opened my eyes to new ways of creating and viewing the world around us.
 
